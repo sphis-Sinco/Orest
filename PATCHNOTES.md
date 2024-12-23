@@ -5,6 +5,7 @@
     - Gives Fire Res, Regeneration, and Strength III for 1 Minute
     - Crafted in the Crafting Table with a Totem and a Diamond
     - Made with a Totem and a Diamond
+    - Max stack of 4 Totems
 - Diamond Decompresser Block
     - Emits 15 Redstone Power
     - Opens a GUI with a 2 Input slots, and 1 Output slot
