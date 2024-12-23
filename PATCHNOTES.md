@@ -1,6 +1,17 @@
-# v0.1 - Diamond Update - (12/22/2024)
+# v0.1 - Diamond Update - (12/23/2024)
 ## Added
-- Totem of Undying Level 2
+- Mod Version Chat Message
+- Totem of Undying Level 2 Item
     - Gives Fire Res, Regeneration, and Strength III for 1 Minute
     - Crafted in the Crafting Table with a Totem and a Diamond
-- Mod Version Chat Message
+- Diamond Decompresser Block
+    - Emits 15 Redstone Power
+    - Opens a GUI with a 2 Input slots, and 1 Output slot
+    - If you have a Diamond in the diamond slot
+        - you can double your coal ore amount
+        - you can turn your coal blocks into coal ore (doubling it too)
+    - If you have an Axe in the diamond slot
+        - you can unstrip stripped logs
+    - If you have a Pickaxe in the diamond slot
+        - you can uncobble cobbled blocks
+    - Made with 8 Diamonds and 1 Redstone
