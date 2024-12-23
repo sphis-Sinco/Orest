@@ -4,6 +4,7 @@
 - Totem of Undying Level 2 Item
     - Gives Fire Res, Regeneration, and Strength III for 1 Minute
     - Crafted in the Crafting Table with a Totem and a Diamond
+    - Made with a Totem and a Diamond
 - Diamond Decompresser Block
     - Emits 15 Redstone Power
     - Opens a GUI with a 2 Input slots, and 1 Output slot
@@ -15,3 +16,6 @@
     - If you have a Pickaxe in the diamond slot
         - you can uncobble cobbled blocks
     - Made with 8 Diamonds and 1 Redstone
+- Diamond Shield
+    - 138% more durable than a regular Shield
+    - Made with 6 Planks (any) and a Diamond
